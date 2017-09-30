@@ -21,4 +21,8 @@ public class Pessoa {
 		this.nome = nome;
 	}
 
+	public void testPessoa() {
+		System.out.println("testando...");
+	}
+	
 }
